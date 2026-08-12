@@ -5,7 +5,7 @@
 個人開発サークル「**AutoMata Technology**」として、AIを活用した自律型ロボットの探求・制作をしています。
 
 ## ✍️ Articles & Stories
-*   **[LinkedIn](https://www.linkedin.com/in/hidenori-mikami-7a58042a/):** プロフェッショナルとしてのバックグラウンド（Physical AI, Autonomous Robotics, Sim2Real 等）
+*   **[LinkedIn](https://www.linkedin.com/in/hidenori-mikami-7a58042a/):** プロフェッショナルとしてのバックグラウンド（データサイエンス、MLエンジニア、ロボティクス、プラントエンジニア等）を記載しています。
 *   **[[Qiita]](https://qiita.com/mikami333):** 主にロボット制御やAI・データサイエンス周りの技術記事をまとめています。因果推論、時系列データ解析、生成AIアプリなどの解説もあります。  
 *   **[[note]](https://note.com/hidenori_mikami):**  AIに対する考察や、趣味の核融合炉（フュージョンエネルギー）に関して発信しています。
 
