@@ -2,7 +2,7 @@
 
 🤖 **Robotics & AI Developer / Creator**
 ロボットやAI技術の実験、デモ開発を行っています。
-個人開発サークル「**AutoMata Technology**」として、AIを活用した自律型ロボットの探求・制作をしています。
+個人開発サークル「**Three Up AutoMata**」として、AIを活用した自律型ロボットの探求・制作をしています。
 
 ## ✍️ Articles & Stories
 *   **[LinkedIn](https://www.linkedin.com/in/hidenori-mikami-7a58042a/):** プロフェッショナルとしてのバックグラウンド（データサイエンス、MLエンジニア、ロボティクス、プラントエンジニア等）を記載しています。
