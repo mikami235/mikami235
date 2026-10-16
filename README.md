@@ -9,6 +9,13 @@
 *   **[[Qiita]](https://qiita.com/mikami333):** 主にロボット制御やAI・データサイエンス周りの技術記事をまとめています。因果推論、時系列データ解析、生成AIアプリなどの解説もあります。  
 *   **[[note]](https://note.com/hidenori_mikami):**  AIに対する考察や、趣味の核融合炉（フュージョンエネルギー）に関して発信しています。
 
+## Featured Project
+* **Open Source Conference 2026 Tokyo/Fall（10月17日）
+OSSでつなぐ Teach → Think → Act
+Open Source Conference 2026 Tokyo/Fall（10月17日）に、個人開発サークル Three Up Automata として出展します。
+LeRobot、SO-101、LLMなどを組み合わせ、人が教え、AIが指示を解釈し、ロボットが実世界で動く小さなPhysical AIシステムの構築に挑戦しています。
+👉 [展示紹介ページ](https://mikami235.github.io/osc2026-physical-ai/)を見る
+
 ## 🎥 Featured Demos
 
 [![NASA ROVER moves by GPT-4o order](https://youtu.be/oN-CR3WZp4A?si=FOe7TW6vUIl1ysip)]
