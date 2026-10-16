@@ -14,8 +14,10 @@
 「OSSでつなぐ Teach → Think → Act」  
 [Open Source Conference 2026 Tokyo/Fall](https://event.ospn.jp/osc2026-fall/)に、個人開発サークル Three Up Automata として出展します。
 LeRobot、SO-101、LLMなどを組み合わせ、人が教え、AIが指示を解釈し、ロボットが実世界で動く小さなPhysical AIシステムの構築に挑戦しています。
-👉 [展示紹介ページ](https://mikami235.github.io/osc2026-physical-ai/)を見る
+👉 [展示紹介ページ](https://mikami235.github.io/osc2026-physical-ai/)  
+[音声指示と模倣学習モデルの連携](https://www.youtube.com/shorts/bhLz21TvcRw)  
+[ロボットアームと会話](https://www.youtube.com/shorts/9wesYV0za_o)
+
 
 ## 🎥 Featured Demos
-
-[![NASA ROVER moves by GPT-4o order](https://youtu.be/oN-CR3WZp4A?si=FOe7TW6vUIl1ysip)]
+[NASA ROVER moves by GPT-4o order](https://youtu.be/oN-CR3WZp4A?si=FOe7TW6vUIl1ysip)
