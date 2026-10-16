@@ -10,9 +10,9 @@
 *   **[[note]](https://note.com/hidenori_mikami):**  AIに対する考察や、趣味の核融合炉（フュージョンエネルギー）に関して発信しています。
 
 ## Featured Project
-* **Open Source Conference 2026 Tokyo/Fall（10月17日）
-OSSでつなぐ Teach → Think → Act
-Open Source Conference 2026 Tokyo/Fall（10月17日）に、個人開発サークル Three Up Automata として出展します。
+* **Open Source Conference 2026 Tokyo/Fall（10月17日）**  
+「OSSでつなぐ Teach → Think → Act」  
+[Open Source Conference 2026 Tokyo/Fall](https://event.ospn.jp/osc2026-fall/)に、個人開発サークル Three Up Automata として出展します。
 LeRobot、SO-101、LLMなどを組み合わせ、人が教え、AIが指示を解釈し、ロボットが実世界で動く小さなPhysical AIシステムの構築に挑戦しています。
 👉 [展示紹介ページ](https://mikami235.github.io/osc2026-physical-ai/)を見る
 
